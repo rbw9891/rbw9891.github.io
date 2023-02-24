@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    background-color: rgb(100, 9, 153);
+    color: rgb(100, 96, 96);
+  }
+  
+  img {
+    box-shadow: 10px 10px 5px black;
+  }
+  
+  section {
+    background-color: #000;
+  }
+  
+  p {
+    font-size: 15px;
+    color: gray;
+  }
+  
+  ul {
+    border-style: solid;
+    color: gray;
+  }
