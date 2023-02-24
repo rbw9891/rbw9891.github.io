@@ -1,23 +1,37 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    color: #333;
+    background: #efeee7;
+}
+
+
 h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
     text-align: center;
-    background-color: rgb(100, 9, 153);
+    background-color: rgb(104, 53, 134);
     color: hsl(0, 23%, 97%);
   }
   
-  img {
+img {
     box-shadow: 10px 10px 5px black;
   }
   
-  section {
+section {
     background-color: #000;
   }
   
-  p {
+p {
     font-size: 15px;
     color: rgb(0, 0, 0);
   }
   
-  ul {
+ul {
     border-style: solid;
     color: gray;
   }
